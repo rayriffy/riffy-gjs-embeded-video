@@ -24,9 +24,9 @@
     "prepublish": "cross-env NODE_ENV=production npm run build",
     "watch": "tsc -w"
   },
-  "homepage": "https://github.com/rayriffy/gatsby-remark-embed-video#readme",
+  "homepage": "https://github.com/rayriffy/riffy-gjs-embeded-video#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rayriffy/gatsby-remark-embed-video.git"
+    "url": "git+https://github.com/rayriffy/riffy-gjs-embeded-video.git"
   }
 }
